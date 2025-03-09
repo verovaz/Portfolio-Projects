@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+git add _config.yml
+git commit -m "Add Jekyll theme to _config.yml"
+git push origin main 
